@@ -1,0 +1,27 @@
+.col:hover {
+    box-shadow: 0 100px 80px rgba(0, 0, 0, 0.1);
+}
+
+.bg-main {
+    background-color: #FEEAE9;
+}
+
+.btn-color {
+    background-color: #FF287C;
+}
+
+.cat-bg-1 {
+    background-color: #FFA500;
+}
+
+.cat-bg-2 {
+    background-color: #DA70D6;
+}
+
+.cat-bg-3 {
+    background-color: #0000FF;
+}
+
+.footer-hight {
+    height: 300px;
+}
